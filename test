@@ -1,0 +1,13 @@
+#EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagebb321a165fe5204d.png" group-title="BANGLA",BTV World
+#http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+http://103.106.2.152:13456/btv_world.m3u8
+
+#EXTINF:-2 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="BANGLA",BTV
+#http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
+http://103.106.2.152:13456/btv.m3u8
+
+#EXTINF:-1 tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="* All 21042021",Bhojpuri Hungama
+PWd6TjNVVE4yWWpNNEVETTJSSGNweFdabzkyYzk0V1pyOUdkL2dUZHowbUwwTlhhc2xYWXNCM0xzRldZdEZHYWs5aWNoVm1icHgyTHQ5Mll1RVdiaGRtYjFobUxsWlhhczl5TDZNSGMwUkhh
+
+#EXTINF:-1 tvg-logo="" group-title="* All 21042021",Bhojpuri Hungama
+PWd6TjNVVE4yWWpNNEVETTJSSGNweFdabzkyYzk0V1pyOUdkL2dUZHowbUwwTlhhc2xYWXNCM0xzRldZdEZHYWs5aWNoVm1icHgyTHQ5Mll1RVdiaGRtYjFobUxsWlhhczl5TDZNSGMwUkhh
